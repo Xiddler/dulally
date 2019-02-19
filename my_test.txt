@@ -1,0 +1,7 @@
+This is a file that would bring tears to your eyes.
+
+2019-02-19_20:37
+
+Made on the laptop. 
+
+Following You Tube  video 1.7: git init and git add - Git and GitHub for Poets
